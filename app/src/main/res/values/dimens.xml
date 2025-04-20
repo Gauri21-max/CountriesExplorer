@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin values -->
+    <dimen name="recycler_view_margin_top">16dp</dimen>
+    <dimen name="recycler_view_margin_bottom">16dp</dimen>
+    <dimen name="margin_bottom">4dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="text_size_subtitle">14sp</dimen>
+
+    <!-- Border -->
+    <dimen name="border_radius">8dp</dimen>
+</resources>

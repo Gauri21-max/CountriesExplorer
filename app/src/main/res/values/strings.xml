@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountryExplorerApp</string>
+    <string name="country_name_region_format">%1$s, %2$s</string>
+    <string name="loaded_countries">Loaded %1$d countries</string>
+    <string name="error_no_countries">No countries found.</string>
+    <string name="country_name_region">Country Name, Region</string>
+    <string name="code">Code</string>
+    <string name="capital">Capital</string>
+    <string name="retry">Retry</string>
+    <string name="no_network_error">You are offline, Retry with Network Connection.</string>
+</resources>
