@@ -20,10 +20,20 @@ CountryExplorerApp is an Android app that allows users to explore country detail
 
 ## Setup
 
-1. Clone this repository:
+1. Clone this repository [master branch].
 
 2. Open the project in **Android Studio**.
 
 3. Make sure you have the required dependencies and SDK versions set up.
 
 4. Build and run the app on your preferred device or emulator.
+
+## 🚀 Future Scope
+
+Here are some planned improvements and enhancements for the app:
+
+- **Pagination Support:** Implement paginated data loading to handle large datasets more efficiently.
+- **Robust Backend Value Handling:** Improve data validation to handle inconsistent or incomplete API responses with default values on client end.
+- **Network Listener Integration:** Automatically retry data loading when network connectivity is restored, removing the need to press the retry button manually.
+- **Offline Support:** Cache country data for offline viewing and better user experience in poor network conditions.
+- **UI/UX Enhancements:** Improve overall visual design and animations for a more modern, responsive experience.
